@@ -8,3 +8,9 @@ div {
     border: 1px solid #dedede;
     border-radius: 12px;
 }
+
+p {
+    font-size: 18px;
+    text-indent: 10px;
+    color: #727272;
+}
