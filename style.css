@@ -2,3 +2,9 @@
     padding: 0;
     margin: 0;
 }
+
+div {
+    display: inline;
+    border: 1px solid #dedede;
+    border-radius: 12px;
+}
